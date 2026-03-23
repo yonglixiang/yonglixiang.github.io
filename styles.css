@@ -1,0 +1,143 @@
+:root {
+  --bg: #f5fbff;
+  --card: #ffffff;
+  --text: #243746;
+  --muted: #6c7f90;
+  --line: #d9e7f2;
+  --accent: #4a8fc7;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Georgia, "Times New Roman", serif;
+  background: linear-gradient(180deg, #f2f9ff 0%, #fbfeff 100%);
+  color: var(--text);
+  line-height: 1.55;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.meta a {
+  color: inherit;
+}
+
+.page {
+  width: min(860px, calc(100% - 32px));
+  margin: 28px auto;
+  padding: 28px 32px;
+  background: var(--card);
+}
+
+.page > * + * {
+  margin-top: 20px;
+}
+
+.hero {
+  padding-bottom: 0;
+}
+
+h1 {
+  margin: 0;
+  font-size: 24px;
+  line-height: 1.1;
+}
+
+.subtitle {
+  margin: 8px 0 8px;
+  font-size: 1.05rem;
+}
+
+.meta,
+.links {
+  color: var(--muted);
+}
+
+.meta {
+  margin: 4px 0;
+}
+
+.affiliation {
+  color: var(--text);
+}
+
+.email {
+  color: var(--text);
+}
+
+.links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  margin-top: 6px;
+  color: var(--accent);
+}
+
+.scholar-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.links a {
+  color: inherit;
+}
+
+.scholar-icon {
+  width: 22px;
+  height: 22px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 999px;
+  background: #eaf6ff;
+  color: var(--accent);
+}
+
+.scholar-icon svg {
+  width: 15px;
+  height: 15px;
+  fill: currentColor;
+}
+
+h2 {
+  margin: 0 0 8px;
+  font-size: 1.28rem;
+}
+
+p {
+  margin: 8px 0;
+}
+
+.note {
+  margin-top: 0;
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
+.paper-list {
+  padding-left: 20px;
+  margin: 0;
+}
+
+.paper-list li + li {
+  margin-top: 12px;
+}
+
+@media (max-width: 640px) {
+  .page {
+    margin: 16px auto;
+    padding: 20px 18px;
+  }
+}
