@@ -98,6 +98,14 @@ h1 {
   color: inherit;
 }
 
+.research-focus {
+  color: #102636;
+  text-decoration-line: underline;
+  text-decoration-color: rgba(16, 38, 54, 0.22);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.12em;
+}
+
 .scholar-icon {
   width: 22px;
   height: 22px;
@@ -127,7 +135,7 @@ p {
 .note {
   margin-top: 0;
   font-size: 0.9rem;
-  color: var(--muted);
+  color: var(--text);
 }
 
 .paper-list {
@@ -137,6 +145,18 @@ p {
 
 .paper-list li + li {
   margin-top: 12px;
+}
+
+.paper-tag {
+  display: inline-block;
+  margin-left: 8px;
+  padding: 1px 8px;
+  border-radius: 999px;
+  background: #eef4f8;
+  color: #4f6678;
+  font-size: 0.8rem;
+  line-height: 1.5;
+  vertical-align: middle;
 }
 
 @media (max-width: 640px) {
