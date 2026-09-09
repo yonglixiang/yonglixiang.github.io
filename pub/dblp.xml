@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<dblpperson name="Yongli Xiang" pid="397/2622" n="8">
+<person key="homepages/397/2622" mdate="2025-02-18">
+<author pid="397/2622">Yongli Xiang</author>
+</person>
+<r><article publtype="informal" key="journals/corr/abs-2602-20880" mdate="2026-07-01">
+<author pid="397/2622">Yongli Xiang</author>
+<author pid="304/3159">Ziming Hong</author>
+<author pid="55/3959">Zhaoqing Wang</author>
+<author pid="08/890-1">Xiangyu Zhao 0001</author>
+<author pid="241/0472-3">Bo Han 0003</author>
+<author pid="150/6667">Tongliang Liu</author>
+<title>When Safety Collides: Resolving Multi-Category Harmful Conflicts in Text-to-Image Diffusion via Adaptive Safety Guidance.</title>
+<year>2026</year>
+<month>February</month>
+<volume>abs/2602.20880</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2602.20880</ee>
+<url>db/journals/corr/corr2602.html#abs-2602-20880</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2602-20999" mdate="2026-03-29">
+<author pid="02/9048">Bowen Zheng</author>
+<author pid="397/2622">Yongli Xiang</author>
+<author pid="304/3159">Ziming Hong</author>
+<author pid="430/9880">Zerong Lin</author>
+<author pid="223/9872">Chaojian Yu</author>
+<author pid="150/6667">Tongliang Liu</author>
+<author pid="16/1184">Xinge You</author>
+<title>VII: Visual Instruction Injection for Jailbreaking Image-to-Video Generation Models.</title>
+<year>2026</year>
+<month>February</month>
+<volume>abs/2602.20999</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2602.20999</ee>
+<url>db/journals/corr/corr2602.html#abs-2602-20999</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2606-14398" mdate="2026-07-06">
+<author pid="231/5054">Vinoth Nandakumar</author>
+<author pid="397/2622">Yongli Xiang</author>
+<author pid="295/9476">Yunzhi Yao</author>
+<author pid="251/5626">Peike Li</author>
+<author pid="150/6667">Tongliang Liu</author>
+<title>A theoretical model for task routing in mixture-of-expert transformers.</title>
+<year>2026</year>
+<month>June</month>
+<volume>abs/2606.14398</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2606.14398</ee>
+<url>db/journals/corr/corr2606.html#abs-2606-14398</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2608-03700" mdate="2026-09-04">
+<author pid="397/2622">Yongli Xiang</author>
+<author pid="98/3138">Zhifang Zhang</author>
+<author pid="14/6937">Bojun Yang</author>
+<author pid="304/3159">Ziming Hong</author>
+<author pid="76/847-6">Lei Feng 0006</author>
+<author pid="42/3241-1">Miao Xu 0001</author>
+<author pid="150/6667">Tongliang Liu</author>
+<title>When Agents Learn to Be You: Benchmarking Privacy Leakage, Impersonation Risk, and Defenses in Persona Skills.</title>
+<year>2026</year>
+<month>August</month>
+<volume>abs/2608.03700</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2608.03700</ee>
+<url>db/journals/corr/corr2608.html#abs-2608-03700</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/XiangH0WL25" mdate="2025-08-20">
+<author pid="397/2622">Yongli Xiang</author>
+<author pid="304/3159">Ziming Hong</author>
+<author pid="56/6651-1">Lina Yao 0001</author>
+<author pid="06/2186">Dadong Wang</author>
+<author pid="150/6667">Tongliang Liu</author>
+<title>Jailbreaking the Non-Transferable Barrier via Test-Time Data Disguising.</title>
+<pages>30671-30681</pages>
+<year>2025</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">https://openaccess.thecvf.com/content/CVPR2025/html/Xiang_Jailbreaking_the_Non-Transferable_Barrier_via_Test-Time_Data_Disguising_CVPR_2025_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR52734.2025.02856</ee>
+<crossref>conf/cvpr/2025</crossref>
+<url>db/conf/cvpr/cvpr2025.html#XiangH0WL25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/HongXL25" mdate="2025-09-24">
+<author pid="304/3159">Ziming Hong</author>
+<author pid="397/2622">Yongli Xiang</author>
+<author pid="150/6667">Tongliang Liu</author>
+<title>Toward Robust Non-Transferable Learning: A Survey and Benchmark.</title>
+<pages>10455-10463</pages>
+<year>2025</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2025/1161</ee>
+<crossref>conf/ijcai/2025</crossref>
+<url>db/conf/ijcai/ijcai2025.html#HongXL25</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2502-13593" mdate="2025-03-19">
+<author pid="304/3159">Ziming Hong</author>
+<author pid="397/2622">Yongli Xiang</author>
+<author pid="150/6667">Tongliang Liu</author>
+<title>Toward Robust Non-Transferable Learning: A Survey and Benchmark.</title>
+<year>2025</year>
+<month>February</month>
+<volume>abs/2502.13593</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2502.13593</ee>
+<url>db/journals/corr/corr2502.html#abs-2502-13593</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2503-17198" mdate="2025-04-15">
+<author pid="397/2622">Yongli Xiang</author>
+<author pid="304/3159">Ziming Hong</author>
+<author pid="56/6651-1">Lina Yao 0001</author>
+<author pid="06/2186">Dadong Wang</author>
+<author pid="150/6667">Tongliang Liu</author>
+<title>Jailbreaking the Non-Transferable Barrier via Test-Time Data Disguising.</title>
+<year>2025</year>
+<month>March</month>
+<volume>abs/2503.17198</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2503.17198</ee>
+<url>db/journals/corr/corr2503.html#abs-2503-17198</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<coauthors n="18" nc="1">
+<co c="0"><na f="f/Feng_0006:Lei" pid="76/847-6">Lei Feng 0006</na></co>
+<co c="0"><na f="h/Han_0003:Bo" pid="241/0472-3">Bo Han 0003</na></co>
+<co c="0"><na f="h/Hong:Ziming" pid="304/3159">Ziming Hong</na></co>
+<co c="0"><na f="l/Li:Peike" pid="251/5626">Peike Li</na></co>
+<co c="0"><na f="l/Lin:Zerong" pid="430/9880">Zerong Lin</na></co>
+<co c="0"><na f="l/Liu:Tongliang" pid="150/6667">Tongliang Liu</na></co>
+<co c="0"><na f="n/Nandakumar:Vinoth" pid="231/5054">Vinoth Nandakumar</na></co>
+<co c="0"><na f="w/Wang:Dadong" pid="06/2186">Dadong Wang</na></co>
+<co c="0"><na f="w/Wang:Zhaoqing" pid="55/3959">Zhaoqing Wang</na></co>
+<co c="0"><na f="x/Xu_0001:Miao" pid="42/3241-1">Miao Xu 0001</na></co>
+<co c="0"><na f="y/Yang:Bojun" pid="14/6937">Bojun Yang</na></co>
+<co c="0"><na f="y/Yao_0001:Lina" pid="56/6651-1">Lina Yao 0001</na></co>
+<co c="0"><na f="y/Yao:Yunzhi" pid="295/9476">Yunzhi Yao</na></co>
+<co c="0"><na f="y/You:Xinge" pid="16/1184">Xinge You</na></co>
+<co c="0"><na f="y/Yu:Chaojian" pid="223/9872">Chaojian Yu</na></co>
+<co c="0"><na f="z/Zhang:Zhifang" pid="98/3138">Zhifang Zhang</na></co>
+<co c="0"><na f="z/Zhao_0001:Xiangyu" pid="08/890-1">Xiangyu Zhao 0001</na></co>
+<co c="0"><na f="z/Zheng:Bowen" pid="02/9048">Bowen Zheng</na></co>
+</coauthors>
+</dblpperson>
