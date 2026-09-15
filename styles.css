@@ -5,6 +5,7 @@
   --muted: #6c7f90;
   --line: #e8d5d2;
   --accent: #be5646;
+  --research-highlight: oklch(0.9 0.11 92 / 0.58);
   --tag-bg: oklch(0.94 0.008 240);
   --tag-text: oklch(0.48 0.025 240);
 }
@@ -181,10 +182,17 @@ h1 {
 
 .research-focus {
   color: #102636;
-  text-decoration-line: underline;
-  text-decoration-color: rgba(16, 38, 54, 0.22);
-  text-decoration-thickness: 1px;
-  text-underline-offset: 0.12em;
+  padding-inline: 0.08em;
+  margin-inline: -0.08em;
+  background-image: linear-gradient(
+    to bottom,
+    transparent 42%,
+    var(--research-highlight) 42%,
+    var(--research-highlight) 88%,
+    transparent 88%
+  );
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
 }
 
 .scholar-icon {
@@ -242,6 +250,10 @@ p {
 .news-list li a,
 .news-list li strong {
   display: inline;
+}
+
+.news-list .course-link {
+  color: inherit;
 }
 
 .news-date {
